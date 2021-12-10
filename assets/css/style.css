@@ -183,10 +183,13 @@ header{
     background-color: #009eab;
     text-align: center;
     border-radius: 0.3rem;
-    top: 492px;
-    left: 900px;
+    top: 479px;
+    left: 790px;
     z-index: 999;
     cursor: pointer;
+}
+.banner .banner-text:hover{
+    background-color: #003f45;
 }
 .banner .banner-text a{
     color: #fff;
